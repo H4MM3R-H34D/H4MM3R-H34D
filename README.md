@@ -1,26 +1,32 @@
 # 👋 Hi, I'm Hamilton Royce Lloyd-Finch
 
-### Cybersecurity Student | Security Research | Blue Team | Offensive Security
+### Cybersecurity | SOC | Penetration Testing | Infrastructure
 
-I'm an Australian cybersecurity student currently completing a **Diploma of Information Technology (Cyber Security) at TAFE SA**, following completion of my **Certificate IV in Cyber Security**.
+I'm an Australian early-career cybersecurity professional completing a **Diploma of Information Technology (Cyber Security) at TAFE SA**, following completion of my **Certificate IV in Cyber Security**.
 
-I enjoy building, breaking, securing and understanding technology.
+My practical work spans **security operations, penetration testing, vulnerability assessment, Windows and Linux infrastructure, Active Directory, FortiGate, Splunk, Azure, scripting and authorised security research**.
 
-My interests span both **offensive and defensive cybersecurity**, including vulnerability assessment, penetration testing, network security, security monitoring, infrastructure hardening, automation and emerging applications of **Agentic AI in cybersecurity**.
+I enjoy working across both **offensive and defensive security** — from reconnaissance, web application testing and vulnerability validation through to monitoring, incident investigation, hardening and remediation.
 
 ---
 
 ## 🏆 Highlights
 
-- 🥇 **Playford Trust / TAFE SA Award — Modern Industries & New Technology (2026)**
-- ⚔️ **Cyber Battle Australia 2026 Grand Finalist**
-  - Team Leader
-  - **9th Place**
-  - 7 flags captured
-- 🌏 **WorldSkills Australia 2026 Regional Cyber Security**
-  - **8th out of 58 competitors**
-- ⚔️ **2× Cyber Battle Australia Grand Finalist**
-  - 2025 & 2026
+- 🥈 **WorldSkills Australia — Cyber Security (2026)**
+  - **Silver Medallist — Adelaide Region**
+  - **8th place nationally out of 58 competitors**
+
+- ⚔️ **Cyber Battle Australia — National Grand Final (2026)**
+  - Team Leader — **Local Host Legends**
+  - **9th place nationally**
+  - **Personally captured 7 flags**
+
+- ⚔️ **Cyber Battle Australia — National Grand Final (2025)**
+  - **Team F-DaS**
+  - **18th place nationally**
+
+- 🎓 **Playford Trust / TAFE SA Scholarship (2026)**
+  - Scholarship recipient
 
 ---
 
@@ -43,7 +49,10 @@ My interests span both **offensive and defensive cybersecurity**, including vuln
 - NIST Cybersecurity Framework
 - Australian Government Information Security Manual (ISM)
 - Essential Eight
+- ISO/IEC 27002 control concepts
 - Vulnerability Management
+- Incident Response
+- Evidence Integrity & Handling
 - Network Segmentation
 - Access Control & Least Privilege
 - System Hardening
@@ -52,21 +61,63 @@ My interests span both **offensive and defensive cybersecurity**, including vuln
 
 ## 🧰 Technologies & Tools
 
-### Security
+### Offensive Security & Vulnerability Assessment
 
-`Kali Linux` · `Nessus` · `Burp Suite` · `OWASP ZAP` · `Splunk` · `FortiGate` · `AppLocker`
+`Kali Linux` · `Burp Suite` · `OWASP ZAP` · `Metasploit` · `Nessus` · `curl` · `Reconnaissance` · `Manual Web Enumeration` · `CVE Analysis`
+
+### Security Operations & Defensive Security
+
+`Splunk Enterprise` · `SPL` · `Fortinet FortiGate` · `Microsoft Defender` · `AppLocker` · `Group Policy` · `Log Analysis` · `Incident Investigation` · `Evidence Integrity`
 
 ### Networking & Infrastructure
 
-`Cisco Packet Tracer` · `TCP/IP` · `VLANs` · `Firewalls` · `VMware` · `Windows Server` · `Linux` · `Samba` · `Pi-hole`
+`TCP/IP` · `VLANs` · `Firewalls` · `Cisco Packet Tracer` · `Windows Server 2022` · `Active Directory` · `DNS` · `DHCP` · `Linux` · `CentOS` · `VMware` · `Samba` · `Pi-hole`
+
+### Cloud & Infrastructure as Code
+
+`Microsoft Azure` · `ARM Templates` · `PowerShell` · `Virtual Machines` · `Azure Storage` · `App Service` · `Cosmos DB` · `AWS CloudTrail` · `Amazon S3 Log Analysis`
 
 ### Development & Automation
 
-`Python` · `Bash` · `PowerShell` · `Git` · `GitHub`
+`Python` · `Bash` · `PowerShell` · `SQLite` · `Git` · `GitHub`
 
 ### Platforms & Hardware
 
-`Microsoft Azure` · `Microsoft 365` · `Windows` · `Linux` · `Raspberry Pi` · `Network Storage` · `Home Lab Infrastructure`
+`Windows` · `Linux` · `Kali Linux` · `Raspberry Pi` · `Network Storage` · `Home Lab Infrastructure`
+
+---
+
+## ⚔️ Offensive Security & Penetration Testing
+
+My cybersecurity training includes practical offensive-security and penetration-testing work performed in controlled lab environments, CTF environments and authorised testing scopes.
+
+### Areas of Experience
+
+- Passive and active reconnaissance
+- Network and service enumeration
+- Web application vulnerability assessment
+- Manual web application enumeration
+- Burp Suite and OWASP ZAP
+- Kali Linux
+- CVE identification, analysis and vulnerability validation
+- Controlled exploitation in lab environments
+- Metasploit
+- Vulnerability remediation analysis
+- Responsible disclosure and bug bounty methodology
+
+### Current Development
+
+I continue developing these skills through:
+
+- authorised bug bounty research
+- controlled home-lab testing
+- vulnerability validation
+- web application analysis
+- HTTP request and response analysis
+- security research using Burp Suite, curl and browser developer tools
+- CTF and cybersecurity competition environments
+
+> Offensive-security activity described here is limited to educational labs, systems I control, CTFs, competitions and explicitly authorised testing scopes.
 
 ---
 
@@ -115,6 +166,11 @@ Human Researcher
 ---
 
 ## 🖧 Home Network Rack & Infrastructure
+
+<p align="center">
+  <img src="assets/home-network-rack/home-network-rack-open.jpg" width="47%" alt="Open view of home network rack">
+  <img src="assets/home-network-rack/home-network-rack-closed.jpg" width="47%" alt="Closed view of home network rack">
+</p>
 
 I maintain my own small network rack and home infrastructure environment, which I use for networking, storage, Linux administration and cybersecurity experimentation.
 
